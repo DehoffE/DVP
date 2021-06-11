@@ -1,0 +1,23 @@
+{
+  "name": "dvp",
+  "version": "1.0.0",
+  "description": "Dehoff Video Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DehoffE/DVP.git"
+  },
+  "keywords": [
+    "player",
+    "video"
+  ],
+  "author": "Egor Dekhov <dehoff.egor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DehoffE/DVP/issues"
+  },
+  "homepage": "https://github.com/DehoffE/DVP#readme"
+}
